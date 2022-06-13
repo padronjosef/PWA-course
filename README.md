@@ -9,8 +9,8 @@ Every folder is a section of the course, you'll need to install the dependices:
 2. Run the command `yarn run dev` : to start the development environment.
 
 # Live Demons:
-[twittor-PWA](https://padronjosef.github.io/pouchDB/) - [code](https://github.com/padronjosef/pouchDB) 
-[twittor-PWA](https://padronjosef.github.io/twittor-PWA/) - [code](https://github.com/padronjosef/twittor-PWA)
+### 1- [twittor-PWA](https://padronjosef.github.io/pouchDB/) - [repo](https://github.com/padronjosef/pouchDB) 
+### 2- [twittor-PWA](https://padronjosef.github.io/twittor-PWA/) - [repo](https://github.com/padronjosef/twittor-PWA)
 
 # Dependencies.
 - NPM 8.5.0
